@@ -25,4 +25,12 @@ COMANDOS UTILIZADOS NO FRONT-END
 • npm install (instalação das dependências)
 • npm run dev (executar o projeto como desenvolvedor).
 
+
+BACK-END
+
 ![Screenshot](img/back.png)
+
+
+FRONT-END
+
+![Screenshot](img/frontvdd.png)
